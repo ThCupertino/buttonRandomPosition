@@ -109,10 +109,3 @@ header {
   transition: .1s;
   transform: scale(1.1);
 }
-
-@media screen and (max-width: 390px){
-  #card {
-    margin: auto auto;
-    scale: .6;
-  }
-}
